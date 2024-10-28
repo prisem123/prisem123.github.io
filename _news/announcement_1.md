@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: I just launched my own blog!
+date: 2024-10-20 12:00:00+0900
 inline: true
 related_posts: false
+published: true
 ---
 
-A simple inline announcement.
+I just launched my own blog!
