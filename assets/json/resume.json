@@ -32,16 +32,23 @@
       "startDate": "2020-03",
       "endDate": "CURRENT",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "1st place - Optimization Grand Challenge 2024",
+      "date": "2024-10-25",
+      "awarder": "Korean Institute of Industrial Engineers",
+      "url": "https://www.optichallenge.com/",
+      "summary": ""
+    },
+    {
+      "title": "1st place - SNU Data Science Career Workshop (Winter 2024)",
+      "date": "2024-02-28",
+      "awarder": "Seoul National University Graduate School of Data Science",
+      "url": "https://sites.google.com/view/snu-ds-career-workshop/home",
+      "summary": ""
     }
   ],
   "certificates": [
